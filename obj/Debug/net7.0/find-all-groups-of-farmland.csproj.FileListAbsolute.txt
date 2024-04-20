@@ -1,0 +1,14 @@
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\bin\Debug\net7.0\find-all-groups-of-farmland.exe
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\bin\Debug\net7.0\find-all-groups-of-farmland.deps.json
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\bin\Debug\net7.0\find-all-groups-of-farmland.runtimeconfig.json
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\bin\Debug\net7.0\find-all-groups-of-farmland.dll
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\bin\Debug\net7.0\find-all-groups-of-farmland.pdb
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.AssemblyInfoInputs.cache
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.AssemblyInfo.cs
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.csproj.CoreCompileInputs.cache
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.dll
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\refint\find-all-groups-of-farmland.dll
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.pdb
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\find-all-groups-of-farmland.genruntimeconfig.cache
+D:\Repositories\Leetcode-repo\find all groups of farmland\find-all-groups-of-farmland\obj\Debug\net7.0\ref\find-all-groups-of-farmland.dll
